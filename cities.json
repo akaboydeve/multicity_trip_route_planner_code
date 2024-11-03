@@ -1,0 +1,10 @@
+{
+    "cities": ["kolkata", "pune", "delhi", "mumbai", "chennai"],
+    "distances": [
+        { "source": "kolkata", "destination": "pune", "distance": 1500 },
+        { "source": "pune", "destination": "delhi", "distance": 1500 },
+        { "source": "delhi", "destination": "mumbai", "distance": 1400 },
+        { "source": "mumbai", "destination": "chennai", "distance": 1300 },
+        { "source": "chennai", "destination": "kolkata", "distance": 1600 }
+    ]
+}
